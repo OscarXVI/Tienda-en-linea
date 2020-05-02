@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'melitzaak',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 't59UThiBq2yeR0gKedUU5ehNtD1Tpr3oekDpjA8FFqgbz5oQVqFjFu2Y',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-04-28',
+    'locale' => 'es-MX',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'Y1bj4wG8sOuH4bYiMtUe05L6ULAKUnkoVYW8MtEecDwoKhoxeo4QEuor',
+    'cookie_iv' => 'GDVa2TpE',
+    'new_cookie_key' => 'def000009b3b6e83f62cfbc3dfc7b0423d238b45fc24f2ca7cef3d549faa3881bb48f86c3e0eb55083f24b798421902025ebc32e043c17076064a9fee93b5a7069b12f8f',
+  ),
+);

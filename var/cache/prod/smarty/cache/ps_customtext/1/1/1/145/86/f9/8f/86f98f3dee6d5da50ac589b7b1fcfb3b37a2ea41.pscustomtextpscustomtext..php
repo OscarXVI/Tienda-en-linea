@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-05-02 14:03:15
+/* Smarty version 3.1.33, created on 2020-05-02 14:05:50
   from 'module:pscustomtextpscustomtext.' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5eadc3f3b417b7_46486004',
+  'unifunc' => 'content_5eadc48e88d766_51540480',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -18,10 +18,10 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   ),
   'cache_lifetime' => 31536000,
 ),true)) {
-function content_5eadc3f3b417b7_46486004 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5eadc48e88d766_51540480 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div id="custom-text">
-  <h1><strong>Un Dulce Bienestar Para Toda Tu Familia ?¡?¡?¡?¡¡?¡</strong></h1>
+  <h1><strong>Un Dulce Bienestar Para Toda Tu Familia</strong></h1>
 </div>
 <?php }
 }
